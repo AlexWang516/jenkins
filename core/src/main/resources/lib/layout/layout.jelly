@@ -245,7 +245,7 @@ THE SOFTWARE.
           </j:if>
 
           <div class="page-footer__links page-footer__links--white jenkins_ver">
-            <a href="${h.getFooterURL()}" rel="noopener noreferrer" target="_blank">Jenkins ${h.version}</a>
+            <a href="${h.getFooterURL()}" rel="noopener noreferrer" target="_blank">SkyCIE ${h.version}</a>
           </div>
 
         </div>
