@@ -1,0 +1,1 @@
+mvn -am -pl war,bom -DskipTests -Dspotbugs.skip clean install
